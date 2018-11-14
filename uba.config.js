@@ -1,3 +1,4 @@
+//test push one file
 const path = require('path');
 const hotMiddlewareScript = 'webpack-hot-middleware/client?reload=true';
 const webpack = require('webpack');
